@@ -1,0 +1,2 @@
+# Some-Hypothesis-Tests-Practices
+This Jupyter notebook has some brief practices on hypothesis testing. I've included some examples of this concept using python. Hypothesis testing is a statistical method used in making statistical decisions using experimental data. Hypothesis testing is an assumption we make about a population parameter, and some statistical approach is needed to prove it. Some mathematical conclusion is necessary, whatever is supposed to be true.
